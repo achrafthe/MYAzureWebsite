@@ -1,3 +1,6 @@
+Sure, I'll add all Asian countries to the existing code. Here's the updated code with all the Asian countries included:
+
+```json
 {
     "type": "FeatureCollection",
     "features": [
@@ -263,6 +266,437 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [69.3451, 30.3753]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bangladesh",
+                "president": "Mohammad Abdul Hamid"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [90.3563, 23.6850]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Afghanistan",
+                "president": "Hibatullah Akhundzada"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [67.709953, 33.93911]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Armenia",
+                "president": "Vahagn Khachaturyan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [45.038189, 40.069099]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Azerbaijan",
+                "president": "Ilham Aliyev"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [47.576927, 40.143105]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bahrain",
+                "president": "Hamad bin Isa Al Khalifa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [50.5577, 26.0667]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bhutan",
+                "president": "Jigme
+
+ Khesar Namgyel Wangchuck (King)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [90.4336, 27.5142]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Brunei",
+                "president": "Hassanal Bolkiah (Sultan)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [114.7277, 4.5353]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cambodia",
+                "president": "Norodom Sihamoni (King)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [104.991, 12.5657]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cyprus",
+                "president": "Nikos Christodoulides"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [33.4299, 35.1264]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Georgia",
+                "president": "Salome Zourabichvili"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [43.3569, 41.7151]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Iraq",
+                "president": "Abdul Latif Rashid"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [43.6793, 33.2232]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Israel",
+                "president": "Isaac Herzog"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [34.8516, 31.0461]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Jordan",
+                "president": "Abdullah II bin Al-Hussein (King)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [36.2384, 30.5852]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kazakhstan",
+                "president": "Kassym-Jomart Tokayev"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [66.9237, 48.0196]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kuwait",
+                "president": "Nawaf Al-Ahmad Al-Jaber Al-Sabah"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [47.4818, 29.3759]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kyrgyzstan",
+                "president": "Sadyr Japarov"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [74.7661, 41.2044]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Laos",
+                "president": "Thongloun Sisoulith"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [102.4955, 19.8563]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Lebanon",
+                "president": "Vacant"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [35.8623, 33.8547]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Malaysia",
+                "president": "Abdullah of Pahang (King)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.9758, 4.2105]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Maldives",
+                "president": "Ibrahim Mohamed Solih"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [73.2207, 3.2028]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mongolia",
+                "president": "Ukhnaagiin Khürelsükh"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [103.8467, 46.8625]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Myanmar",
+                "president": "Min Aung Hlaing"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [95.956, 21.9162]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Nepal",
+                "president": "Ram Chandra Poudel"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [84.124, 28.3949]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "North Korea",
+                "president": "Kim Jong-un"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [127.5101, 40.3399]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Oman",
+                "president": "Haitham bin Tariq"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [55.9233, 21.4735]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Palestine",
+                "president": "Mahmoud Abbas"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [35.2332, 31.9522]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Philippines",
+                "president": "Ferdinand Marcos Jr."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [121.774, 12.8797]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Qatar",
+                "president": "Tamim bin Hamad Al Thani"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [51.1839, 25.3548]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Sri Lanka",
+                "president": "Ranil Wickremesinghe"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [80.7718, 7.8731]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Syria",
+                "president": "Bashar al-Assad"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [38.9968, 34.8021]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tajikistan",
+                "president": "Emomali Rahmon"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [71.2761, 38.861]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Thailand",
+                "president": "Vajiralongkorn (King)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [100.9925, 15.870]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Timor-Leste",
+                "president": "José Ramos-Horta"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [125.7275, -8.8742]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Turkmenistan",
+                "president": "Serdar Berdimuhamedow"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [59.5563, 38.9697]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "United Arab Emirates",
+                "president": "Mohammed bin Zayed Al Nahyan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [53.8478,24.4539]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Uzbekistan",
+                "president": "Shavkat Mirziyoyev"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [64.5853, 41.3775]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Vietnam",
+                "president": "Vo Van Thuong"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [108.2772, 14.0583]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Yemen",
+                "president": "Rashad al-Alimi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [48.5164, 15.5527]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Sri Lanka",
+                "president": "Ranil Wickremesinghe"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [80.7718, 7.8731]
             }
         },
         {
