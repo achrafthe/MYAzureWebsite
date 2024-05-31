@@ -11,6 +11,9 @@ fetch('countries.geojson')
     .then(response => response.json())
     .then(data => {
         L.geoJSON(data, {
+            pointToLayer: (feature, latlng) => {
+                return L.marker(latlng);
+            },
             onEachFeature: (feature, layer) => {
                 layer.bindPopup(`<strong>${feature.properties.name}</strong><br>President: ${feature.properties.president}`);
             }
