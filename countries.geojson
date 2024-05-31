@@ -1476,8 +1476,446 @@
                 "type": "Point",
                 "coordinates": [29.1549, -19.0154]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Belize",
+                "president": "Dame Froyla Tzalam (Governor-General, representing the monarch)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-88.4976, 17.1899]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Costa Rica",
+                "president": "Rodrigo Chaves Robles"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-83.7534, 9.7489]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "El Salvador",
+                "president": "Nayib Bukele"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-88.8965, 13.7942]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Guatemala",
+                "president": "Alejandro Giammattei"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-90.2308, 15.7835]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Honduras",
+                "president": "Xiomara Castro"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-86.2419, 15.199]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Nicaragua",
+                "president": "Daniel Ortega"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-85.2072, 12.8654]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Panama",
+                "president": "Laurentino Cortizo"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-80.7821, 8.538]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Antigua and Barbuda",
+                "president": "Rodney Williams"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-61.7964, 17.0608]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bahamas",
+                "president": "Cynthia A. Pratt (Acting Governor-General)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-77.3963, 25.0343]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Barbados",
+                "president": "Dame Sandra Mason"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-59.5432, 13.1939]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cuba",
+                "president": "Miguel Díaz-Canel"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-77.7812, 21.5218]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Dominica",
+                "president": "Roosevelt Skerrit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-61.370976, 15.415]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Dominican Republic",
+                "president": "Luis Abinader"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-70.1627, 18.7357]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Grenada",
+                "president": "Dame Cécile La Grenade"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-61.6042, 12.1165]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Haiti",
+                "president": "Ariel Henry (Acting)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-72.2852, 18.9712]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Jamaica",
+                "president": "Patrick Allen (Governor-General, representing the monarch)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-77.2975, 18.1096]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Saint Kitts and Nevis",
+                "president": "Marcella Liburd (Acting Governor-General)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-62.782998, 17.357822]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Saint Lucia",
+                "president": "Cyril Errol Melchiades Charles (Acting Governor-General)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-60.9789, 13.9094]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Saint Vincent and the Grenadines",
+                "president": "Dame Susan Dougan (Governor-General)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-61.287228, 12.9843]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Trinidad and Tobago",
+                "president": "Christine Kangaloo"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-61.2225, 10.6918]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bolivia",
+                "president": "Luis Arce"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-63.5887, -16.2902]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Paraguay",
+                "president": "Mario Abdo Benítez"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-58.4438, -23.4425]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Uruguay",
+                "president": "Luis Lacalle Pou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-55.7658, -32.5228]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Guyana",
+                "president": "Irfaan Ali"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-58.9302, 4.8604]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Suriname",
+                "president": "Chandrikapersad Santokhi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-56.027783, 3.919305]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Venezuela",
+                "president": "Nicolás Maduro"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-66.5897, 6.4238]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Australia",
+                "president": "David Hurley (Governor General, representing the monarch)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [133.7751, -25.2744]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Fiji",
+                "president": "Ratu Wiliame Katonivere"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [178.0650, -17.7134]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kiribati",
+                "president": "Taneti Maamau"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [173.0, 1.3333]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Marshall Islands",
+                "president": "David Kabua"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [171.1845, 7.1315]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Micronesia",
+                "president": "Wesley Simina"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [150.5508, 7.4256]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Nauru",
+                "president": "Russ Kun"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [166.9315, -0.5228]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "New Zealand",
+                "president": "Cindy Kiro (Governor General, representing the monarch)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [174.885971, -40.900557]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Palau",
+                "president": "Surangel Whipps Jr."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [134.5825, 7.51498]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Papua New Guinea",
+                "president": "Bob Dadae (Governor General)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [143.95555, -6.314993]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Samoa",
+                "president": "Va'aletoa Sualauvi II"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-172.1046, -13.759]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Solomon Islands",
+                "president": "David Vunagi (Governor General)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [160.156194, -9.64571]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tonga",
+                "president": "Tupou VI (King)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-175.198242, -21.178986]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tuvalu",
+                "president": "Tofiga Vaevalu Falani (Governor General)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [179.194, -7.1095]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Vanuatu",
+                "president": "Nikenike Vurobaravu"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [166.959158, -15.376706]
+            }
         }
     ]
 }
-
-
