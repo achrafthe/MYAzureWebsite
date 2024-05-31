@@ -137,7 +137,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Nigeria",
-                "president": "Muhammadu Buhari"
+                "president": "Bola Tinubu"
             },
             "geometry": {
                 "type": "Point",
@@ -324,7 +324,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Bhutan",
-                "president": "JigmeKhesar Namgyel Wangchuck (King)"
+                "president": "Jigme Khesar Namgyel Wangchuck (King)"
             },
             "geometry": {
                 "type": "Point",
@@ -647,7 +647,7 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [53.8478,24.4539]
+                "coordinates": [53.8478, 24.4539]
             }
         },
         {
@@ -686,23 +686,542 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Sri Lanka",
-                "president": "Ranil Wickremesinghe"
+                "name": "Algeria",
+                "president": "Abdelmadjid Tebboune"
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [80.7718, 7.8731]
+                "coordinates": [1.6596, 28.0339]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "name": "Bangladesh",
-                "president": "Mohammad Abdul Hamid"
+                "name": "Angola",
+                "president": "João Lourenço"
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [90.3563, 23.6850]
+                "coordinates": [17.8739, -11.2027]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Benin",
+                "president": "Patrice Talon"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [2.3158, 9.3077]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Botswana",
+                "president": "Mokgweetsi Masisi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [24.6849, -22.3285]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Burkina Faso",
+                "president": "Ibrahim Traoré"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-1.5616, 12.2383]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Burundi",
+                "president": "Évariste Ndayishimiye"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [29.9189, -3.3731]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cape Verde",
+                "president": "José Maria Neves"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-23.6167, 15.1111]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Central African Republic",
+                "president": "Faustin-Archange Touadéra"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [20.9394, 6.6111]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Chad",
+                "president": "Mahamat Déby"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [18.7322, 15.4542]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Comoros",
+                "president": "Azali Assoumani"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [43.8722, -11.6455]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Congo (Brazzaville)",
+                "president": "Denis Sassou Nguesso"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [15.8277, -0.2280]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Congo (Kinshasa)",
+                "president": "Félix Tshisekedi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [21.7587, -4.0383]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Djibouti",
+                "president": "Ismaïl Omar Guelleh"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [42.5903, 11.8251]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Equatorial Guinea",
+                "president": "Teodoro Obiang Nguema Mbasogo"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [10.2679, 1.6508]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Eritrea",
+                "president": "Isaias Afwerki"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [39.7823, 15.1794]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Eswatini",
+                "president": "Mswati III (King)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [31.4659, -26.5225]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ethiopia",
+                "president": "Sahle-Work Zewde"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [39.6012, 9.1450]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Gabon",
+                "president": "Ali Bongo Ondimba"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [11.6094, -0.8037]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Gambia",
+                "president": "Adama Barrow"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-15.3101, 13.4432]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ghana",
+                "president": "Nana Akufo-Addo"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-1.0232, 7.9465]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Guinea",
+                "president": "Mamady Doumbouya"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-9.6966, 9.9456]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Guinea-Bissau",
+                "president": "Umaro Sissoco Embaló"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-15.1804, 11.8037]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ivory Coast",
+                "president": "Alassane Ouattara"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-5.5471, 7.5399]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Lesotho",
+                "president": "Sam Matekane (Prime Minister)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [28.2336, -29.6099]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Liberia",
+                "president": "George Weah"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-9.4295, 6.4281]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Libya",
+                "president": "Mohamed al-Menfi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [17.2283, 26.3351]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties":
+
+ {
+                "name": "Madagascar",
+                "president": "Andry Rajoelina"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [46.8691, -18.7669]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Malawi",
+                "president": "Lazarus Chakwera"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [34.3015, -13.2543]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mali",
+                "president": "Assimi Goïta"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-3.9962, 17.5707]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mauritania",
+                "president": "Mohamed Ould Ghazouani"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-10.9408, 21.0079]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mauritius",
+                "president": "Prithvirajsing Roopun"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [57.5522, -20.3484]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Morocco",
+                "president": "Mohammed VI (King)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-7.0926, 31.7917]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mozambique",
+                "president": "Filipe Nyusi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [35.5296, -18.6657]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Namibia",
+                "president": "Hage Geingob"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [18.4904, -22.9576]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Niger",
+                "president": "Mohamed Bazoum"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [8.0817, 17.6078]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Rwanda",
+                "president": "Paul Kagame"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [29.8739, -1.9403]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "São Tomé and Príncipe",
+                "president": "Carlos Vila Nova"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [6.6131, 0.1864]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Senegal",
+                "president": "Macky Sall"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-14.4524, 14.4974]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Seychelles",
+                "president": "Wavel Ramkalawan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [55.4914, -4.6796]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Sierra Leone",
+                "president": "Julius Maada Bio"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-11.7799, 8.4606]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Somalia",
+                "president": "Hassan Sheikh Mohamud"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [46.1996, 5.1521]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "South Sudan",
+                "president": "Salva Kiir Mayardit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [30.1546, 7.8627]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Sudan",
+                "president": "Abdel Fattah al-Burhan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [30.2176, 12.8628]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tanzania",
+                "president": "Samia Suluhu Hassan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [34.8888, -6.3690]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Togo",
+                "president": "Faure Gnassingbé"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0.8248, 8.6195]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tunisia",
+                "president": "Kais Saied"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [9.5375, 33.8869]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Uganda",
+                "president": "Yoweri Museveni"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [32.2903, 1.3733]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Zambia",
+                "president": "Hakainde Hichilema"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [27.8493, -13.1339]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Zimbabwe",
+                "president": "Emmerson Mnangagwa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [29.1549, -19.0154]
             }
         }
     ]
