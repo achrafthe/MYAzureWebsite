@@ -324,9 +324,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Bhutan",
-                "president": "Jigme
-
- Khesar Namgyel Wangchuck (King)"
+                "president": "JigmeKhesar Namgyel Wangchuck (King)"
             },
             "geometry": {
                 "type": "Point",
