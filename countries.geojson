@@ -26,12 +26,12 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "France",
-                "president": "Emmanuel Macron"
+                "name": "Mexico",
+                "president": "Andrés Manuel López Obrador"
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [2.21, 46.23]
+                "coordinates": [-102.5528, 23.6345]
             }
         },
         {
@@ -43,6 +43,404 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [-51.9253, -14.2350]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Argentina",
+                "president": "Alberto Fernández"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-63.6167, -38.4161]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Colombia",
+                "president": "Gustavo Petro"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-74.2973, 4.5709]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Chile",
+                "president": "Gabriel Boric"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-71.542969, -35.675147]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Peru",
+                "president": "Dina Boluarte"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-75.015152, -9.189967]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "United Kingdom",
+                "president": "Charles III (Monarch, represented by the Prime Minister Rishi Sunak)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-3.4360, 55.3781]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "France",
+                "president": "Emmanuel Macron"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [2.2137, 46.2276]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Germany",
+                "president": "Frank-Walter Steinmeier"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [10.4515, 51.1657]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Italy",
+                "president": "Sergio Mattarella"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.5674, 41.8719]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Spain",
+                "president": "Pedro Sánchez"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-3.7038, 40.4168]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Netherlands",
+                "president": "Willem-Alexander (King, represented by the Prime Minister Mark Rutte)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [5.2913, 52.1326]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Belgium",
+                "president": "Alexander De Croo"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.4699, 50.5039]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Sweden",
+                "president": "Carl XVI Gustaf (King, represented by the Prime Minister Ulf Kristersson)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [18.6435, 60.1282]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Norway",
+                "president": "Harald V (King, represented by the Prime Minister Jonas Gahr Støre)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [8.4689, 60.4720]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Denmark",
+                "president": "Margrethe II (Queen, represented by the Prime Minister Mette Frederiksen)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [9.5018, 56.2639]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Switzerland",
+                "president": "Alain Berset"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [8.2275, 46.8182]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Poland",
+                "president": "Andrzej Duda"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [19.1451, 51.9194]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Austria",
+                "president": "Alexander Van der Bellen"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [14.5501, 47.5162]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Finland",
+                "president": "Sauli Niinistö"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [25.7482, 61.9241]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Greece",
+                "president": "Katerina Sakellaropoulou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [21.8243, 39.0742]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Portugal",
+                "president": "Marcelo Rebelo de Sousa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-8.2245, 39.3999]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ireland",
+                "president": "Michael D. Higgins"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-8.2439, 53.1424]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Czech Republic",
+                "president": "Petr Pavel"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [15.472962, 49.817492]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Hungary",
+                "president": "Katalin Novák"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [19.5033, 47.1625]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Slovakia",
+                "president": "Zuzana Čaputová"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [19.699, 48.669]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bulgaria",
+                "president": "Rumen Radev"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [25.4858, 42.7339]
+            }
+       
+
+ },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Romania",
+                "president": "Klaus Iohannis"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [24.9668, 45.9432]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Croatia",
+                "president": "Zoran Milanović"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [15.2, 45.1]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Serbia",
+                "president": "Aleksandar Vučić"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [21.0059, 44.0165]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bosnia and Herzegovina",
+                "president": "Željka Cvijanović"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [17.6791, 43.9159]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Montenegro",
+                "president": "Jakov Milatović"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [19.3744, 42.7087]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "North Macedonia",
+                "president": "Stevo Pendarovski"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [21.7453, 41.6086]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Albania",
+                "president": "Bajram Begaj"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [20.1683, 41.1533]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Slovenia",
+                "president": "Nataša Pirc Musar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [14.9955, 46.1512]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Estonia",
+                "president": "Alar Karis"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [25.0136, 58.5953]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Latvia",
+                "president": "Edgars Rinkēvičs"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [24.6032, 56.8796]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Lithuania",
+                "president": "Gitanas Nausėda"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [23.8813, 55.1694]
             }
         },
         {
@@ -81,50 +479,6 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Germany",
-                "president": "Frank-Walter Steinmeier"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [10.4515, 51.1657]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "South Africa",
-                "president": "Cyril Ramaphosa"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [22.9375, -30.5595]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Australia",
-                "president": "David Hurley (Governor General, representing the monarch)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [133.7751, -25.2744]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Mexico",
-                "president": "Andrés Manuel López Obrador"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [-102.5528, 23.6345]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "name": "Japan",
                 "president": "Naruhito (Emperor, representing the state)"
             },
@@ -136,111 +490,12 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Nigeria",
-                "president": "Bola Tinubu"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [8.6753, 9.0820]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Kenya",
-                "president": "William Ruto"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [37.9062, -1.2921]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Egypt",
-                "president": "Abdel Fattah el-Sisi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [30.8025, 26.8206]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "name": "South Korea",
                 "president": "Yoon Suk-yeol"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [127.7669, 35.9078]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Turkey",
-                "president": "Recep Tayyip Erdoğan"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [35.2433, 38.9637]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "United Kingdom",
-                "president": "Charles III (Monarch, represented by the Prime Minister Rishi Sunak)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [-3.4360, 55.3781]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Italy",
-                "president": "Sergio Mattarella"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [12.5674, 41.8719]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Argentina",
-                "president": "Alberto Fernández"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [-63.6167, -38.4161]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Saudi Arabia",
-                "president": "Salman bin Abdulaziz Al Saud (King)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [45.0792, 23.8859]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Iran",
-                "president": "Ebrahim Raisi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [53.6880, 32.4279]
             }
         },
         {
@@ -971,9 +1226,7 @@
         },
         {
             "type": "Feature",
-            "properties":
-
- {
+            "properties": {
                 "name": "Madagascar",
                 "president": "Andry Rajoelina"
             },
@@ -1226,3 +1479,5 @@
         }
     ]
 }
+
+
