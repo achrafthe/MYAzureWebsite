@@ -1,82 +1,133 @@
 {
     "type": "FeatureCollection",
     "features": [
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "United States",
-                "president": "Joe Biden"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [-98.35, 39.50]
-            }
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "United States",
+          "president": "Joe Biden"
         },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Canada",
-                "president": "Mary Simon (Governor General, representing the monarch)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [-106.34, 56.13]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "France",
-                "president": "Emmanuel Macron"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [2.21, 46.23]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Brazil",
-                "president": "Luiz Inácio Lula da Silva"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [-51.9253, -14.2350]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Russia",
-                "president": "Vladimir Putin"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [105.3188, 61.5240]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "China",
-                "president": "Xi Jinping"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [104.1954, 35.8617]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "India",
-                "president": "Droupadi Murmu"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [78.9629, 20.5937]
-            }
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-98.35, 39.50]
         }
-    ]
-}
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Canada",
+          "president": "Mary Simon (Governor General, representing the monarch)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-106.34, 56.13]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "France",
+          "president": "Emmanuel Macron"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [2.21, 46.23]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Brazil",
+          "president": "Luiz Inácio Lula da Silva"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-51.9253, -14.2350]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Russia",
+          "president": "Vladimir Putin"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [105.3188, 61.5240]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "China",
+          "president": "Xi Jinping"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [104.1954, 35.8617]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "India",
+          "president": "Droupadi Murmu"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [78.9629, 20.5937]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Algeria",
+          "president": "Abdelmadjid Tebboune"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [3.0588, 28.0339]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Egypt",
+          "president": "Abdel Fattah el-Sisi"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [30.8025, 26.8206]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Libya",
+          "president": "Mohamed al-Menfi (Chairman of the Presidential Council)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [17.2283, 26.3351]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Morocco",
+          "president": "King Mohammed VI (Monarch)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-7.0926, 31.7917]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Sudan",
+          "president": "Abdel Fattah al-Burhan (Chairman of the Transitional Sovereignty Council)"
+        },
+        "geometry": {
+          "type": "Point
+  
