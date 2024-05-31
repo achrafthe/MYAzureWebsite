@@ -132,6 +132,149 @@
                 "type": "Point",
                 "coordinates": [138.2529, 36.2048]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Nigeria",
+                "president": "Muhammadu Buhari"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [8.6753, 9.0820]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kenya",
+                "president": "William Ruto"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [37.9062, -1.2921]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Egypt",
+                "president": "Abdel Fattah el-Sisi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [30.8025, 26.8206]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "South Korea",
+                "president": "Yoon Suk-yeol"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [127.7669, 35.9078]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Turkey",
+                "president": "Recep Tayyip Erdoğan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [35.2433, 38.9637]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "United Kingdom",
+                "president": "Charles III (Monarch, represented by the Prime Minister Rishi Sunak)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-3.4360, 55.3781]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Italy",
+                "president": "Sergio Mattarella"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.5674, 41.8719]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Argentina",
+                "president": "Alberto Fernández"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-63.6167, -38.4161]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Saudi Arabia",
+                "president": "Salman bin Abdulaziz Al Saud (King)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [45.0792, 23.8859]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Iran",
+                "president": "Ebrahim Raisi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [53.6880, 32.4279]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Indonesia",
+                "president": "Joko Widodo"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [113.9213, -0.7893]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Pakistan",
+                "president": "Arif Alvi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [69.3451, 30.3753]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bangladesh",
+                "president": "Mohammad Abdul Hamid"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [90.3563, 23.6850]
+            }
         }
     ]
 }
